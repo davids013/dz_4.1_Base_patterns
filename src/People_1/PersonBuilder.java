@@ -1,7 +1,6 @@
 package People_1;
 
 public class PersonBuilder {
-
     private String name;
     private String surname;
     private int age = -1;
