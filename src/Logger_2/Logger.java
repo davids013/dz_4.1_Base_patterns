@@ -2,7 +2,6 @@ package Logger_2;
 
 import java.time.format.DateTimeFormatter;
 import java.time.LocalDateTime;
-import java.time.temporal.ChronoUnit;
 
 public class Logger {
     static protected int counter = 1;
